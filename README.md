@@ -1,2 +1,3 @@
 # kellywandia
-My personal repository
+21yrs old
+interests:coding,data analysis,pull requests
